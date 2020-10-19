@@ -1,0 +1,70 @@
+.titulo-principal {
+	font-weight: bold;
+	
+	
+}
+
+header h1 {
+	text-align: center;
+	color: #080808;
+	padding: 20px;
+	font-size: 30px;
+	}
+
+main {
+	width: 850px;
+    margin: auto;
+	text-align: left;
+	font-size: 20px;
+	background-color: #E3E8E7;
+
+}
+
+main h2 {
+	font-weight: bold;
+	margin: 20px;
+	background-color: #767A79;
+	width: 250px;
+	box-sizing: border-box;
+}
+
+blockquote {
+		margin: 30px;
+		
+}
+
+p {
+	font-size: 20px;
+	margin-bottom: 5px;
+	text-align: justify;
+
+}
+
+
+.minha-foto,{
+    float: right;
+    box-sizing: border-box;
+    border-left: 10px solid black;
+    border-bottom: 10px solid black;
+	position: absolute;
+    top: 20;
+    right: 0;
+}
+
+
+img {
+  float: right;
+ 
+}
+
+ .rodape-pagina{
+  position: fixed;
+  text-align: left;
+  padding: 3px;
+  background-color: #ABC9C1 ;
+  color: black;
+  bottom: 0;
+  width: 100%;
+
+
+}

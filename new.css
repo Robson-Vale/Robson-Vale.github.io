@@ -1,0 +1,185 @@
+body {
+ font-family: "Crimson Text", "Times New Roman", serif;
+ background-color: #C69925;
+ font-size: 120%;
+ line-height: 1.5;
+}
+
+main h2 {
+	 text-align: center;
+	 color: #090909;
+	 font-style: italic
+}
+p {
+ text-align: center;
+ margin: 30px 0;
+}
+
+aside {
+ background-color: #090909;
+ color: #636562;
+ text-align: center;
+
+}
+
+aside h1 {
+ font-size: 30px;
+ margin-bottom: 25px;
+}
+
+footer {
+ background-color: #000;
+ color: #F2FFFC;
+}
+
+ul {
+ color: yellow;
+}
+ul li a {
+ color: inherit;
+}
+
+
+main h1 {
+ text-align: center;
+ background-color: #851944;
+ color: #FFF;
+ padding: 25px;
+}
+
+main {
+ width: 600px;
+ margin: left;
+ padding: 30px 0;
+ 
+}
+
+section {
+	float: center;
+    width: 85%;
+	
+}
+
+.cite1 {
+	background-color: #E8E514;
+    border: 2px solid #060606;
+    width: 450px;
+	height: 150px;
+	box-sizing: border-box;
+    margin: 40px 30px;
+	margin-bottom: 2em;
+	text-align: center;
+	
+}
+
+.cite2 {
+    background-color: #E8E514;
+    border: 2px solid #060606;
+    width: 400px;
+	height: 100px;
+	box-sizing: border-box;
+    margin: 40px 30px;
+	margin-bottom: 2em;
+	text-align: center;
+}
+
+
+.cite3 {
+    background-color: #E8E514;
+    border: 2px solid #060606;
+    width: 400px;
+	height: 150px;
+	box-sizing: border-box;
+    margin: 40px 30px;
+	margin-bottom: 2em;
+	text-align: center;
+	
+}
+
+cite {
+ font-style: italic;
+ float: right;
+}
+
+h2 {
+ font-size: 20px;
+ clear: both;
+}
+
+nav a {
+ text-transform: lowercase;
+}
+
+
+.icones-redes-sociais li {
+ display: inline-block;
+}
+
+
+.cite1 {
+ font-style: italic;
+ float: right;
+}
+.cite2 {
+ font-style: italic;
+ float: left;
+}
+
+.cite3 {
+ font-style: italic;
+ float: right;
+}
+
+.minha-foto{
+ width: 20%;
+ position: fixed;
+ top: 0;
+ right: 0;	
+ box-sizing: border-box;
+ border-left: 5px solid black;
+ border-bottom: 5px solid black;
+}
+
+.navegacao-lateral {
+ width: 10%;
+ position: fixed;
+ top: 0;
+ left: 0;
+ height:910px;
+}
+
+
+.titulo-principal {
+ text-align: center;
+ background-color: yellow;
+ color: #060606;
+ border-bottom: 5px solid black;
+ font-size: 60px;
+ text-transform: uppercase;
+}
+
+.rodape-pagina {
+  position: fixed;
+  text-align: left;
+  padding: 3px;
+  background-color: #ABC9C1 ;
+  color: black;
+  bottom: 0;
+  width: 100%;
+  
+   
+}
+
+header { width: 80%;
+    float: center;
+    
+	}
+	
+	.cores {background-color: #C69925;}
+
+	.configcarousel{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
